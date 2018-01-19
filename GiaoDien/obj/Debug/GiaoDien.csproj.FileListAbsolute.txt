@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+c:\users\user\documents\visual studio 2013\Projects\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.dangnhap.resources
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.hethong.resources
