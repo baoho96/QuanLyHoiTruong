@@ -18,3 +18,5 @@ E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDi
 E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
 E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
 E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\obj\Debug\GiaoDien.hethong.resources
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\bin\Debug\Newtonsoft.Json.dll
+E:\Onedrive\My major\Lập trình giao diện\GiaoDien\GiaoDien\bin\Debug\Newtonsoft.Json.xml

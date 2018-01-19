@@ -34,7 +34,12 @@ namespace GiaoDien
 
         private void tbPdangkiHT_Click(object sender, EventArgs e)
         {
-            
+            String constr = ConfigurationManager.ConnectionStrings["QLHT"].ConnectionString;
+            SqlConnection con = new SqlConnection(constr);
+            String query = "select * from admin";
+            con.Open();
+            SqlCommand cmd = new SqlCommand(query, con);
+            SqlDataReader reader = cmd.ExecuteReader();
         }
     }
 }
